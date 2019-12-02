@@ -1,6 +1,6 @@
 [
   {
-    "github_username": "sebito91",
+    "github_username": "sebito91",kytrinyx
     "name": "Sebastian Borza",
     "link_text": null,
     "link_url": null,
@@ -30,5 +30,12 @@
     "link_url": null,
     "avatar_url": null,
     "bio": "I have more than 10 years of production experience. I love Go/Ruby because of its friendly and active community. Nothing is impossible when you do what you love! Happy coding!"
-  }
+  },{
+  "github_username": "stdevHsequeda",
+  "name": "Henry Sequeda Glez",
+  "link_text": null,
+  "link_url": null,
+  "avatar_url": null,
+  "bio": "I love Go for its simplicity and consistency. I've written Go professionally, and also use it for open source projects."
+}
 ]
